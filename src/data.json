@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Hydrance UV-Rich SPF30",
+            "volume": "40ml",
+            "price": "17",
+            "brand": "Avene",
+            "type": "face cream",
+            "info": "Hydrate your skin while protecting it daily against UV, free radicals, and pollution. It's rich, velvety texture leaves the skin soft, supple and luminous all day long.",
+            "category": [
+                "Moisturisers",
+                "Suncare and Self-Tanning",
+                "Avene"
+            ],
+            "src": "/images/HydranceHydratingCream.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Lipikar AP+M",
+            "volume": "400ml",
+            "price": "21",
+            "brand": "La Roche-Posay",
+            "type": "body balm",
+            "info": "If you have extremely sensitive and dry skin, and it’s been difficult to find a body lotion that actually does the job. By using the Lipikar Balm AP+ from La Roche-Posay for a few months will leave your skin feeling moisturized all day long without having to reapply it every few hours. Plus, it’s really affordable! Win win.",
+            "category": [
+                "Moisturisers",
+                "Body care",
+                "La Roche-Posay"
+            ],
+            "src": "/images/Lipikar.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Lait-Creme Concentre",
+            "volume": "30ml",
+            "price": "14",
+            "brand": "Embryolisse",
+            "type": "face cream",
+            "info": "Embryolisse’s Lait-Crème Concentré is super moisturizing without being too thick or heavy on the surface of the skin and works well all year round. A hero product, indeed!",
+            "category": [
+                "Moisturisers",
+                "Embryolisse"
+            ],
+            "src": "/images/Embryolisse.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Glow Daily Vitamin C Gel Cream",
+            "volume": "50ml",
+            "price": "39",
+            "brand": "REN",
+            "type": "face gel cream",
+            "info": "After using this gel-cream for a few months you'll notice how much your skin will glow before you’d even put on makeup. It's the product that will make you feel more confident to go out sans base product.",
+            "category": [
+                "Moisturisers",
+                "REN Clean Skincare",
+                "Clean Skincare",
+                "Clean Skincare"
+            ],
+            "src": "/images/11994736-1554640580971421.jpg"
+        },
+        {
+            "id": "5",
+            "name": "C-Rush Brightening",
+            "volume": "50ml",
+            "price": "38",
+            "brand": "Ole Henriksen",
+            "type": "face gel cream",
+            "info": "The daily effects of stress, fatigue, and pollution can leave skin looking dry and dull. Fight back with this vegan C-Rush Brightening Gel Crème. This innovative, peachy-tinted gel crème instantly illuminates and delivers an energizing burst of 24-hour hydration.",
+            "category": [
+                "Moisturisers",
+                "Ole Henriksen"
+            ],
+            "src": "./images/CRush.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Vita Mineral Daily Supplement",
+            "volume": "50ml",
+            "price": "29",
+            "brand": "REN",
+            "type": "face cream",
+            "info": "This vegan multi-active cream that replenishes the skin with moisture and vital nutrients. Powerful antioxidants, trace elements and vitamins further protect and energise the skin's appearance.",
+            "category": [
+                "Moisturisers",
+                "REN Clean Skincare",
+                "Clean Skincare",
+                "Clean Skincare"
+            ],
+            "src": "./images/VitaMineral.jpg"
+        }
+    ]
+}
