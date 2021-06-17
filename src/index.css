@@ -99,8 +99,8 @@ footer{
 }
 
 .product img{
-  max-width: 37rem;
-  max-height: 37rem;
+  max-width: 30rem;
+  max-height: 30rem;
 }
 
 .product-price{
@@ -132,4 +132,18 @@ button:hover{
 
 .button-primary{
   background-color: grey;
+}
+
+
+/* Filter */
+.filter{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: .1rem solid rgb(212, 212, 212);;
+}
+
+.filter div{
+  flex:1;
 }
